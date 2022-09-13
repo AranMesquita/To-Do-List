@@ -10,3 +10,7 @@
   <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="250"/>
   </p>
 
+
+<h2>
+  * Description:
+</h2>
