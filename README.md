@@ -7,6 +7,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list2.gif" height="250" width="200"/>
+  <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list2.gif" height="500" width="200"/>
   </p>
 
