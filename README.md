@@ -1,8 +1,6 @@
 
 
 <h1>
-  
-  
 To-Do List App &nbsp; <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/Todo.png" height="40" width="40"/>
 </h1>
 A simple to-do list📝 app, made using react native⚛️, to learn the fundamentals of using react for mobile app development📲
@@ -10,7 +8,6 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 <br></br>
 
 <h2>
-  
   Demo:
 </h2>
 
@@ -19,7 +16,6 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
   </p>
   
   <h2>
-  
   For a live demo:
 </h2>
   
@@ -33,7 +29,6 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 
 
 <h2>
-  
   Features:
 </h2>
 
@@ -41,10 +36,3 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 -  🗑️ Delete todos
 -  ✍️ Save todos to Local Storage
 -  🔃 Load the todos from Local Storage when the app is loaded again
-
-<h2>
-  
-  * :
-</h2>
-
-
