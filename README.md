@@ -23,10 +23,10 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
   * for A live demo:
 </h2>
   
-  Using the [expo go](https://expo.dev/client) **Scan** the expo qr code:
+  Using the [expo go](https://expo.dev/client) app **scan** the expo qr code:
   <br></br>
  <img src="https://qr.expo.dev/expo-go?owner=aranmesquita&slug=To-Do-List&releaseChannel=default&host=exp.host" width="250" height="250"/> 
-[exp://exp.host/@aranmesquita/To-Do-List?release-channel=default](exp://exp.host/@aranmesquita/To-Do-List?release-channel=default)
+
 <br></br>
  or enter this url manually into the expo go app:<br></br>
  exp://exp.host/@aranmesquita/To-Do-List?release-channel=default
