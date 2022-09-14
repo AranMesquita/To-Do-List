@@ -15,12 +15,12 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 </h2>
 
 <p align="center">
-  <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="250"/>
+  <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="275"/>
   </p>
   
   <h2>
   
-  for A live demo:
+  For a live demo:
 </h2>
   
   Using the [expo go](https://expo.dev/client) app **scan** the expo qr code:
