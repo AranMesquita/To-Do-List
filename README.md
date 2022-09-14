@@ -5,7 +5,9 @@
   
 * To-Do List App &nbsp; <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/Todo.png" height="40" width="40"/>
 </h1>
-Simple To-Do list app📝 created using Javascript, the React Native framework and expo.
+A simple to-do list📝 app, made using react native⚛️ to learn the fundamentals of react for mobile app development📲
+
+<br></br>
 
 <p align="center">
   <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="250"/>
@@ -16,4 +18,7 @@ Simple To-Do list app📝 created using Javascript, the React Native framework a
   
   * Features:
 </h2>
-This is a simple To-Do list app that was created using Javascript, the React Native framework and expo. 
+* ➕ Add todos
+* 🗑️ Delete todos
+* ✍️ Save todos to Local Storage
+* 🔃 Load the todos from Local Storage when the app is loaded again
