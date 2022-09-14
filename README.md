@@ -30,7 +30,7 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 <br></br>
  or enter this url manually into the expo go app:
  
- exp://exp.host/@aranmesquita/To-Do-List?release-channel=default
+ [exp://exp.host/@aranmesquita/To-Do-List?release-channel=default]()
 
 
 <h2>
