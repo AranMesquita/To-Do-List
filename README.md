@@ -3,7 +3,7 @@
 <h1>
   
   
-* To-Do List App &nbsp; <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/Todo.png" height="40" width="40"/>
+To-Do List App &nbsp; <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/Todo.png" height="40" width="40"/>
 </h1>
 A simple to-do list📝 app, made using react native⚛️, to learn the fundamentals of react for mobile app development📲
 
@@ -11,7 +11,7 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 
 <h2>
   
-  * Demo:
+  Demo:
 </h2>
 
 <p align="center">
@@ -20,7 +20,7 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
   
   <h2>
   
-  * for A live demo:
+  for A live demo:
 </h2>
   
   Using the [expo go](https://expo.dev/client) app **scan** the expo qr code:
@@ -34,7 +34,7 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 
 <h2>
   
-  * Features:
+  Features:
 </h2>
 
 -  ➕ Add todos
