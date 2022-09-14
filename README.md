@@ -18,7 +18,7 @@ A simple to-do list📝 app, made using react native⚛️ to learn the fundamen
   
   * Features:
 </h2>
-* ➕ Add todos
-* 🗑️ Delete todos
-* ✍️ Save todos to Local Storage
-* 🔃 Load the todos from Local Storage when the app is loaded again
+- ➕ Add todos
+- 🗑️ Delete todos
+- ✍️ Save todos to Local Storage
+- 🔃 Load the todos from Local Storage when the app is loaded again
