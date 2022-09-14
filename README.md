@@ -23,9 +23,13 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
   * for A live demo:
 </h2>
   
-  simply *scan/tap* the expo qr code:
+  Using the [expo go](https://expo.dev/client) **Scan** the expo qr code:
   <br></br>
-  <a href="exp://exp.host/@aranmesquita/To-Do-List?release-channel=default" target="_blank"> <img src="https://qr.expo.dev/expo-go?owner=aranmesquita&slug=To-Do-List&releaseChannel=default&host=exp.host" width="250" height="250"/> </a>
+ <img src="https://qr.expo.dev/expo-go?owner=aranmesquita&slug=To-Do-List&releaseChannel=default&host=exp.host" width="250" height="250"/> 
+[exp://exp.host/@aranmesquita/To-Do-List?release-channel=default](exp://exp.host/@aranmesquita/To-Do-List?release-channel=default)
+<br></br>
+ or enter this url manually into the expo go app:<br></br>
+ exp://exp.host/@aranmesquita/To-Do-List?release-channel=default
 
 
 <h2>
@@ -37,3 +41,10 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
 -  🗑️ Delete todos
 -  ✍️ Save todos to Local Storage
 -  🔃 Load the todos from Local Storage when the app is loaded again
+
+<h2>
+  
+  * :
+</h2>
+
+
