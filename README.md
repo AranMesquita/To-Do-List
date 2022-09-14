@@ -18,7 +18,10 @@ A simple to-do list📝 app, made using react native⚛️, to learn the fundame
   <img src="https://github.com/AranMesquita/To-Do-List/blob/main/assets/to-do-list.gif" height="600" width="250"/>
   </p>
   
-  ###  * for A live demo:
+  <h2>
+  
+  * for A live demo:
+</h2>
   
   simply *scan/tap* the expo qr code:
   <br></br>
