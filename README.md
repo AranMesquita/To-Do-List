@@ -13,5 +13,6 @@
 
 <h2>
   
-  * ~~Description:~~
+  * Description:
 </h2>
+This is a simple To-Do list app that was created using Javascript, the React Native framework and expo. 
