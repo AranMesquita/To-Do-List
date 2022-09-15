@@ -5,8 +5,6 @@ To-Do List App &nbsp; <img src="https://github.com/AranMesquita/To-Do-List/blob/
 </h1>
 A simple to-do list📝 app, made using react native⚛️, to learn the fundamentals of using react for mobile app development📲
 
-<br></br>
-
 <h2>
   Demo:
 </h2>
